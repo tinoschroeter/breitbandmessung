@@ -1,0 +1,23 @@
+{
+  "name": "breitbandmessung",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinoschroeter/breitbandmessung.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tinoschroeter/breitbandmessung/issues"
+  },
+  "homepage": "https://github.com/tinoschroeter/breitbandmessung#readme",
+  "dependencies": {
+    "speedtest-net": "^2.2.0"
+  }
+}
