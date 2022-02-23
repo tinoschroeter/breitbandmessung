@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/tinoschroeter/breitbandmessung#readme",
   "dependencies": {
+    "express": "^4.17.3",
     "speedtest-net": "^2.2.0"
   }
 }
