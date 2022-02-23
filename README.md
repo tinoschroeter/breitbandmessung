@@ -3,6 +3,8 @@
 [https://www.breitbandmessung.de](https://www.breitbandmessung.de/)
 
 
+## /metrics
+
 ```text
 # HELP speedtest_ping Latency (ms)
 # TYPE speedtest_ping gauge
@@ -19,6 +21,8 @@ speedtest_upload 48.22
 # HELP speedtest_packetLoss
 # TYPE speedtest_packetLoss gauge
 ```
+
+## /json
 
 ```json
 {
