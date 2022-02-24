@@ -2,6 +2,8 @@
 
 [https://www.breitbandmessung.de](https://www.breitbandmessung.de/)
 
+[Speedtest](https://www.speedtest.net) exporter for Prometheus.
+
 ## /metrics
 
 ```text
@@ -69,3 +71,5 @@ speedtest_packetLoss 0
 ## Grafana Dashboard
 
 [https://grafana.com/grafana/dashboards/15808](https://grafana.com/grafana/dashboards/15808)
+
+![Dashboard](https://raw.githubusercontent.com/tinoschroeter/breitbandmessung/master/grafana.png)
