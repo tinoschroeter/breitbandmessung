@@ -2,7 +2,6 @@
 
 [https://www.breitbandmessung.de](https://www.breitbandmessung.de/)
 
-
 ## /metrics
 
 ```text
@@ -66,3 +65,7 @@ speedtest_packetLoss 0
   }
 }
 ```
+
+## Grafana Dashboard
+
+[https://grafana.com/grafana/dashboards/15808](https://grafana.com/grafana/dashboards/15808)
