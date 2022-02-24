@@ -8,18 +8,19 @@
 ```text
 # HELP speedtest_ping Latency (ms)
 # TYPE speedtest_ping gauge
-speedtest_ping 14.344
+speedtest_ping 8.353
 # HELP speedtest_jitter Latency (ms)
 # TYPE speedtest_jitter gauge
-speedtest_jitter 0.471
+speedtest_jitter 0.069
 # HELP speedtest_download Download bandwidth (Mbps).
 # TYPE speedtest_download gauge
-speedtest_download 98.44
+speedtest_download 80.65
 # HELP speedtest_upload Upload bandwidth (Mbps).
 # TYPE speedtest_upload gauge
-speedtest_upload 48.22
+speedtest_upload 34.61
 # HELP speedtest_packetLoss
 # TYPE speedtest_packetLoss gauge
+speedtest_packetLoss 0
 ```
 
 ## /json
