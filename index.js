@@ -1,6 +1,9 @@
 const speedTest = require("speedtest-net");
 const express = require("express");
+const morgan = require("morgan");
+
 const app = express();
+app.use(morgan("combined"));
 
 const BytesPerSecond2MegabitsPerSecond = (value) => {
   return ((value * 8) / 1024 / 1024).toFixed(2);
