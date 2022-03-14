@@ -23,6 +23,11 @@ speedtest_upload 34.61
 # TYPE speedtest_packetLoss gauge
 speedtest_packetLoss 0
 ```
+## Kubernetes deployment
+
+* [prometheus_exporter](https://github.com/tinoschroeter/prometheus_exporter)
+* [Deployment](https://github.com/tinoschroeter/prometheus_exporter/blob/master/k3s/base/speedtest.yaml)
+* [Dockerfile](https://github.com/tinoschroeter/prometheus_exporter/blob/master/Dockerfile#L2-L13)
 
 ## Grafana Dashboard
 
