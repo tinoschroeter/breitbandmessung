@@ -23,6 +23,7 @@ speedtest_upload 34.61
 # TYPE speedtest_packetLoss gauge
 speedtest_packetLoss 0
 ```
+
 ## Kubernetes deployment
 
 * [prometheus_exporter](https://github.com/tinoschroeter/prometheus_exporter)
